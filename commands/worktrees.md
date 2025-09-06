@@ -1,0 +1,2 @@
+You are an intelligent task orchestrator. 
+Merge all currently active worktrees into the main folder/branch. Use any sub agent available for their respective purpose in order to write code, tests, run tests and static analyses and merge the worktrees.

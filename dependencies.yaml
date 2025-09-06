@@ -1,0 +1,13 @@
+npm:
+  - happy-coder:
+      command: "npm i -g happy-coder"
+  - "claude kit":
+      command: "npm install -g claudekit"
+
+mcp:
+  - aceternityui:
+      command: "npx aceternityui-mcp"
+  - playwright:
+      command: "npx @playwright/mcp@latest"
+  - context7:
+      command: "npx -y @upstash/context7-mcp"
